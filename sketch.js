@@ -89,7 +89,7 @@ textSize(15)
   text("Aliens:"+opscore,5,30);
   
 
-    
+    drawsprite();
 
 }
 
